@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727715408566",
+    "project_id": "night-jack",
+    "storage_bucket": "night-jack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727715408566:android:1c766d250cca03420dd417",
+        "android_client_info": {
+          "package_name": "com.example.night_jack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727715408566-o1dk236m461kq52rcsi12h023shlgfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnbzb77iAznA36smCb7MPJg3U_fEpdCNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727715408566-o1dk236m461kq52rcsi12h023shlgfhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
